@@ -5,3 +5,4 @@ const HelloWorld=(a)=>{
 console.log(HelloWorld(4));
 console.log(HelloWorld(5));
 console.log(HelloWorld(6));
+console.log(HelloWorld(7));
